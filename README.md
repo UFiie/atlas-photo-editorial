@@ -16,11 +16,9 @@
 
 ## 参考图片
 
-<p align="center">
-  <img src="assets/p1%20(1).jpg" width="32%" alt="参考效果图1">
-  <img src="assets/p1%20(2).jpg" width="32%" alt="参考效果图2">
-  <img src="assets/p1%20(3).jpg" width="32%" alt="参考效果图3">
-</p>
+以下为 `atlas-photo-editorial` 的参考效果图，展示旅行摄影与地理地图元素融合的视觉风格。
+
+![参考效果图 1](assets/p2).jpg)
 
 ## 适用照片
 
