@@ -18,7 +18,7 @@
 
 以下为 `atlas-photo-editorial` 的参考效果图，展示旅行摄影与地理地图元素融合的视觉风格。
 
-![参考效果图 1](assets/p2).png)
+![参考效果图 1](assets/p2.png)
 
 ## 适用照片
 
